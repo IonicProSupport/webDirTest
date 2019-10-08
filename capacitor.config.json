@@ -1,0 +1,7 @@
+{
+  "appId": "io.ionic.cs.demo.dev",
+  "appName": "OutputPathTest",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist/bbitapp"
+}
